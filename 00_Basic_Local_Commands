@@ -1,0 +1,7 @@
+## Basic Commands                 ##
+## < > denotes optional arguments ##
+####################################
+git init : Initializes an empty git repo in the current directory
+
+git config <--global> object.property : Modifies local or global git config
+git config <--global> --list Lists all properties in either the local or global config
